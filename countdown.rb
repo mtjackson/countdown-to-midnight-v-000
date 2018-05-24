@@ -11,3 +11,5 @@ end
 def countodwn_with_sleep(i)
   while i >= 0
     i -= 1
+  end.sleep(1.seconds)
+end
