@@ -5,7 +5,7 @@ def countdown(i)
     puts "#{i} SECOND(S)!"
     i -= 1
   end
-  puts "HAPPY NEW YEAR!"
+  returns "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep(i)
